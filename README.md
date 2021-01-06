@@ -2,7 +2,7 @@
 
 Project for Information Retrieval and Web Search Course\
 Goal: Clustering articles from BBC and BBC Sport into categories\
-Dataset: http://mlg.ucd.ie/datasets/bbc.html\
+Dataset: http://mlg.ucd.ie/datasets/bbc.html
 
 Implementation:\
 -Written in an iPython Jupyter notebook\
