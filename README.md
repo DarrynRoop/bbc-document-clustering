@@ -10,4 +10,4 @@ Implementation:\
 -Uses sk-learn to build the tf-idf matrix, then convert the outputted sparse array to NumPy\
 -From-scratch k-means implentation\
 -Dataset includes class labels that were used for external evaluation metrics\
--PCA to reduce dimensionality (sk-learn)\
+-PCA to reduce dimensionality (sk-learn)
